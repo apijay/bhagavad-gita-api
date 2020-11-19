@@ -1,0 +1,7 @@
+{
+	"Description_url":"http://bhagavadgitaapi.vercel.app/", 
+	"Random_gita_slok_url":"http://bhagavadgitaapi.vercel.app/gita", 
+	"All_chapters_url": "http://bhagavadgitaapi.vercel.app/gita/chapters",
+	"Particular_chapter_url": "http://bhagavadgitaapi.vercel.app/gita{/:ch}",
+	"Particular_slok_url": "http://bhagavadgitaapi.vercel.app/gita{/:ch}{/:sl}"
+}  
