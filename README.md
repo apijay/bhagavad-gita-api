@@ -27,23 +27,23 @@ Bhagavad-Gita-API is A lightweight Node.js based Bhagavad Gita API server
 
 1. to get gita API description
 
-- **Endpoint** `http://vedicscripturesapi.heroku.com/`
+- **Endpoint** `https://vedicscripturesapi.herokuapp.com/`
 
 2. to get SVG of Random gita Slok(Verse)
 
-- **Endpoint** `http://vedicscripturesapi.heroku.com/gita.svg`
+- **Endpoint** `https://vedicscripturesapi.herokuapp.com/gita.svg`
 
 3. to get Random gita Slok(Verse)
 
-- **Endpoint** `http://vedicscripturesapi.heroku.com/gita`
+- **Endpoint** `https://vedicscripturesapi.herokuapp.com/gita`
 
 4. to get All Chapters details
 
-- **Endpoint** `http://vedicscripturesapi.heroku.com/chapters`
+- **Endpoint** `https://vedicscripturesapi.herokuapp.com/chapters`
 
 5. to get Particular single Chapters details
 
-- **Endpoint** `http://vedicscripturesapi.heroku.com/gita{/cp}`
+- **Endpoint** `https://vedicscripturesapi.herokuapp.com/gita{/cp}`
 
 *:ch - chapter number*
 
@@ -67,7 +67,7 @@ Bhagavad-Gita-API is A lightweight Node.js based Bhagavad Gita API server
 ```
 
 6. to get particular verse of a chapter
-- **Endpoint** `http://vedicscripturesapi.heroku.com/gita{/cp}`
+- **Endpoint** `https://vedicscripturesapi.herokuapp.com/gita{/cp}`
 
 *:ch - Adhyay(chapter) number*
 *:vr - Slok(verse) number*

@@ -1,10 +1,10 @@
 {
 "gita-api-urls":{
-	"Description_url":"http://vedicscripturesapi.heroku.com/",
-	"SVG_of_Random_gita_Slok":"http://vedicscripturesapi.heroku.com/gita.svg",
-	"Random_gita_slok_url":"http://vedicscripturesapi.heroku.com/gita", 
-	"All_chapters_url": "http://vedicscripturesapi.heroku.com/gita/chapters",
-	"Particular_chapter_url": "http://vedicscripturesapi.heroku.com/gita{/:ch}",
-	"Particular_slok_url": "http://vedicscripturesapi.heroku.com/gita{/:ch}{/:sl}"
+	"Description_url":"https://vedicscripturesapi.herokuapp.com/",
+	"SVG_of_Random_gita_Slok":"https://vedicscripturesapi.herokuapp.com/gita.svg",
+	"Random_gita_slok_url":"https://vedicscripturesapi.herokuapp.com/gita", 
+	"All_chapters_url": "https://vedicscripturesapi.herokuapp.com/gita/chapters",
+	"Particular_chapter_url": "https://vedicscripturesapi.herokuapp.com/gita{/:ch}",
+	"Particular_slok_url": "https://vedicscripturesapi.herokuapp.com/gita{/:ch}{/:sl}"
 }
 }  
