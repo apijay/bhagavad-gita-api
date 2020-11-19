@@ -10,7 +10,6 @@ const appRouter = (app, fs) => {
 
     // gita routes
     gitaRoutes(app, fs);
-
 };
 
 module.exports = appRouter;
