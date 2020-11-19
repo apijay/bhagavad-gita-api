@@ -33,6 +33,9 @@ Bhagavad-Gita-API is A lightweight Node.js based Bhagavad Gita API server
 
 - **Endpoint** `https://vedicscripturesapi.herokuapp.com/gita.svg`
 
+- **Response**
+![bhagavad-gita-api](https://vedicscripturesapi.herokuapp.com/gita.svg)
+
 3. to get Random gita Slok(Verse)
 
 - **Endpoint** `https://vedicscripturesapi.herokuapp.com/gita`
